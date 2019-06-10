@@ -17,6 +17,18 @@
 4. Опишите то, что происходит в ответ на ДЗ.
 
 ## Ответ:
+<code>
+Response 
+  { type: "basic",
+    url: "http://zayavka-na-kartu-2.sdew.ru/save.php",
+    redirected: false,
+    status: 412,
+    ok: false,
+    statusText: "Precondition Failed",
+    headers: Headers,
+    body: ReadableStream,
+    bodyUsed: false }
+</code>
 
 
 https://developer.mozilla.org/ru/docs/Web/HTTP/Status/412
