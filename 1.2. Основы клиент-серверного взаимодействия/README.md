@@ -19,6 +19,8 @@
 ## Ответ:
 
 
+https://developer.mozilla.org/ru/docs/Web/HTTP/Status/412
+
 
 ## Задание 2 `*` Дополнительная задача более сложного уровня:
 
@@ -32,4 +34,4 @@
 <img src="1.jpg" alt="">
 
 
-1 https://developer.mozilla.org/ru/docs/Web/HTTP/Status/412
+
