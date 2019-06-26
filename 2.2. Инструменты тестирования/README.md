@@ -11,7 +11,6 @@
 Результат задания: ссылка на Google-таблицу с заведенными дефектами. 
 
 ## Ответ:
-
 https://docs.google.com/spreadsheets/d/1mOkiGAuSIoT0odcmY1GGANzDT7GjsgJHqbhE0PLseL0/edit?usp=sharing
 
 ## * Дополнительная задача более сложного уровня:
@@ -28,6 +27,9 @@ https://docs.google.com/spreadsheets/d/1mOkiGAuSIoT0odcmY1GGANzDT7GjsgJHqbhE0PLs
 * Предоставьте отчёт о результатах запуска.
 
 Результат задания: ссылка на файл с отчётом + скриншоты.
+
+## Ответ:
+https://docs.google.com/spreadsheets/d/1HtZ7Uo9mAbN7TbeOSMFvltdTsa3zLdzv6JvMVFOq9zc/edit?usp=sharing
 
 
 ## `*` Дополнительная задача более сложного уровня:
