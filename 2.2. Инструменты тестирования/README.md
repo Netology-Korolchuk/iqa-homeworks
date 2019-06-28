@@ -58,10 +58,17 @@ https://docs.google.com/spreadsheets/d/1HtZ7Uo9mAbN7TbeOSMFvltdTsa3zLdzv6JvMVFOq
 }
 ```
 
-## Сдача домашнего задания
-Результат выполнения домашнего задания в виде текста или ссылок отправить в личном кабинете на проверку.
-Файлы или архивы через личный кабинет отправлять не нужно!
 
-Все задания обязательны к выполнению для получения зачета, кроме дополнительных задач со `*`. 
-Любые вопросы по решению задач задавайте в чате Slack.
+## Ответ:
+При отправке запроса с формы на http://zayavka-na-kartu-1.sdew.ru/ возвращается статус 200, все ок, все данные принимаются, даже ошибочные:
+1.
+https://drive.google.com/open?id=1JOdWE6XowWVycqk9BHaYxTY0_rzeeEhI
+2.
+https://drive.google.com/open?id=1b5gJ_zdKpYy9VoUA1ivspzDEShEfnyRI
+
+При отправке запроса с формы на http://zayavka-na-kartu-2.sdew.ru/ возвращаются разные статусы, в зависимости от введенных данных, например 412:
+3.
+https://drive.google.com/open?id=1DwsBvv9b7vhuprgNsTmEdoOPmLIrMi8Z
+
+
 
