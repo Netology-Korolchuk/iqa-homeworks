@@ -60,15 +60,11 @@ https://docs.google.com/spreadsheets/d/1HtZ7Uo9mAbN7TbeOSMFvltdTsa3zLdzv6JvMVFOq
 
 
 ## Ответ:
-При отправке запроса с формы на http://zayavka-na-kartu-1.sdew.ru/ возвращается статус 200, все ок, все данные принимаются, даже ошибочные:
-1.
-https://drive.google.com/open?id=1JOdWE6XowWVycqk9BHaYxTY0_rzeeEhI
-2.
-https://drive.google.com/open?id=1b5gJ_zdKpYy9VoUA1ivspzDEShEfnyRI
+При отправке запроса с формы на http://zayavka-na-kartu-1.sdew.ru/ возвращается статус 200, все ок, все данные принимаются, даже ошибочные: <br>
+1. https://drive.google.com/open?id=1JOdWE6XowWVycqk9BHaYxTY0_rzeeEhI <br>
+2. https://drive.google.com/open?id=1b5gJ_zdKpYy9VoUA1ivspzDEShEfnyRI <br>
 
-При отправке запроса с формы на http://zayavka-na-kartu-2.sdew.ru/ возвращаются разные статусы, в зависимости от введенных данных, например 412:
-3.
-https://drive.google.com/open?id=1DwsBvv9b7vhuprgNsTmEdoOPmLIrMi8Z
-
+При отправке запроса с формы на http://zayavka-na-kartu-2.sdew.ru/ возвращаются разные статусы, в зависимости от введенных данных, например 412: <br>
+3. https://drive.google.com/open?id=1DwsBvv9b7vhuprgNsTmEdoOPmLIrMi8Z
 
 
