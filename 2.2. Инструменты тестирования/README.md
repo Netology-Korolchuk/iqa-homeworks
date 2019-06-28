@@ -60,6 +60,8 @@ https://docs.google.com/spreadsheets/d/1HtZ7Uo9mAbN7TbeOSMFvltdTsa3zLdzv6JvMVFOq
 
 
 ## Ответ:
+Запрос в POSTMAN изменен и отправлен на сервер.
+
 При отправке запроса с формы на http://zayavka-na-kartu-1.sdew.ru/ возвращается статус 200, все ок, все данные принимаются, даже ошибочные: <br>
 1. https://drive.google.com/open?id=1JOdWE6XowWVycqk9BHaYxTY0_rzeeEhI <br>
 2. https://drive.google.com/open?id=1b5gJ_zdKpYy9VoUA1ivspzDEShEfnyRI <br>
